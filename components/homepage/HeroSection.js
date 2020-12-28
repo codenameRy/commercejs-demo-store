@@ -38,7 +38,7 @@ export default class HeroSection extends Component {
                 }}
               >
                 <p className="font-size-display5 font-family-secondary mb-4 text-center hero-header">
-                  The care you've always needed
+                  Welcome to the world of scotch whisky!
                 </p>
                 <p className="text-transform-uppercase font-size-title mb-5 hero-subheader">
                   A range of products for you
